@@ -1,1 +1,2 @@
-WinMingle School is so cool!
+#!/bin/bash
+echo "WinMingle School is so cool!"
